@@ -1,0 +1,3 @@
+1. html code which contains main heading(h1) "HTML", h2 as Structure and 
+use h3,h4 for side headings and write descriptions of head,body and title. also use h5 and h6 for highlighting.
+2. recreate the first www project website
