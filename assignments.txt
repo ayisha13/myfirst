@@ -7,3 +7,8 @@ use h3,h4 for side headings and write descriptions of head,body and title. also 
 6.create an ordered list of any three fruits where each one denoted by alphabets starting from p
 create a time table as given image
 7.create a div with a small paragraph, make the div background color black and text color white
+8. Implement a basic page to tribute a person
+9. Create netflix login page
+10. Make student registration from
+11. create a multipage tribute form where home represents tribute, about represents about u, contact represents contact form
+All sites should be live

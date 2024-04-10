@@ -1,0 +1,29 @@
+h1{
+    
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+    margin: center;
+}
+p{
+    padding: 25px;
+    padding-top: 50px;
+    text-align: justify;
+    
+}
+#des{
+    margin: center;
+}
+img{
+    padding: 25px;
+    
+}
+#header{
+    display: flex;
+    justify-content:space-between;
+}
+#links{
+    display: flex;
+    justify-content:space-between;
+}

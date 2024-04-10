@@ -1,0 +1,52 @@
+body{
+    background-color: antiquewhite;
+    height: 100vh;
+    width: 100vw;
+}
+.main{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.nav{
+    background-color: aquamarine;
+    
+    
+}
+.img{
+    
+    float: left;
+    
+
+}
+.menu{
+    float: right;
+   
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 2px;
+    margin: 2px;
+    padding: 5px;
+}
+.ban{
+    height: 500px;
+    width: 500px;
+    margin: 50px;
+}
+.para{
+    clear: left;
+    margin: 20px;
+    height: 200px;
+    width: 300px;
+
+}
+.bimg{
+    float:right;
+    height: 200px;
+    width: 200px;
+}
