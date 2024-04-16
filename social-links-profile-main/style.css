@@ -1,0 +1,53 @@
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    box-sizing: border-box;
+    color: white;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    font-size: 14px;
+    height: 100vh;
+    
+}
+.main{
+    height: 500px;
+    width:350px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+.main h4{
+    color: hsl(75, 94%, 57%);
+    margin: 0%;
+}
+p{
+    font-size: small;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+button{
+    margin: 5px;
+    border-radius: 5px;
+    height: 30px;
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-style: none;
+}
+
+img{
+    margin-top: 30px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+}
